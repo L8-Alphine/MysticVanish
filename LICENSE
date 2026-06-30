@@ -1,21 +1,215 @@
-MIT License
+MysticVanish All Rights Reserved Server-Use License
+Version 1.0
+Effective Date: 2026-06-30
 
-Copyright (c) 2026 Alphine
+Copyright (c) 2026 Alphine, Hyzion Studios, and Krystian Carter.
+All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license governs the use of MysticVanish, including but not limited to
+its source code, compiled binaries, documentation, configuration files,
+examples, snippets, assets, build scripts, APIs, and related materials,
+collectively referred to as the "Software."
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This Software is proprietary and source-available only if the copyright holders
+choose to publish or share any portion of the source code. It is not open source,
+free software, public domain software, or a permissive license.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. Ownership
+
+Alphine, Hyzion Studios, and Krystian Carter retain all ownership rights,
+copyright rights, title, and interest in and to the Software.
+
+No ownership rights are transferred by this license.
+
+2. Permitted Server Use
+
+Server owners and server operators are permitted to install and run the compiled
+MysticVanish mod/plugin on game servers, including servers that generate revenue,
+provided that the Software itself is not sold, sublicensed, redistributed,
+modified, reverse engineered, copied into another project, or used outside the
+permissions granted by this license.
+
+Permitted server monetization includes, but is not limited to:
+
+- paid ranks;
+- donations;
+- cosmetic purchases;
+- server subscriptions;
+- in-game shops;
+- marketplace systems;
+- server access fees;
+- other lawful server monetization models.
+
+This permission only applies to normal use of the compiled MysticVanish
+mod/plugin as part of a running server.
+
+3. No Commercial Use of Code
+
+You may not use the Software's source code, snippets, structure, logic,
+architecture, APIs, assets, configuration examples, documentation, or any
+derivative portion of the Software for commercial purposes without prior written
+authorization from Alphine, Hyzion Studios, or Krystian Carter.
+
+Prohibited commercial uses include, but are not limited to:
+
+- selling the Software or modified versions of the Software;
+- selling a plugin, mod, product, library, or service based on the Software;
+- including any part of the Software in a paid product;
+- using any part of the Software in a commissioned project;
+- using any part of the Software in a marketplace product;
+- using any part of the Software in a paid or monetized software package;
+- using any part of the Software to provide paid development services;
+- using any part of the Software in a competing vanish, staff, utility, or
+  administration product.
+
+4. No Competition or Contest Use
+
+You may not use the Software, source code, snippets, design, architecture,
+assets, documentation, or derivative portions of the Software in any competition,
+contest, bounty, challenge, hackathon, modding contest, plugin contest, game jam,
+showcase, or similar event without prior written authorization.
+
+This restriction applies whether or not the competition offers prizes, money,
+public ranking, promotional value, marketplace placement, or other benefits.
+
+5. No Unauthorized Copying or Snippet Use
+
+You may not copy, extract, reuse, adapt, translate, port, modify, or incorporate
+any part of the Software's source code, snippets, logic, architecture, file
+structure, package structure, comments, APIs, or assets into another project
+without prior written authorization.
+
+This applies even to small snippets.
+
+Viewing, reading, or accessing the Software does not grant permission to reuse
+any portion of it.
+
+6. No Redistribution
+
+You may not redistribute, reupload, mirror, share, publish, resell, sublicense,
+or otherwise distribute the Software or modified versions of the Software without
+prior written authorization.
+
+This includes redistribution through:
+
+- GitHub or other code hosting platforms;
+- Discord;
+- CurseForge;
+- Modrinth;
+- BuiltByBit;
+- SpigotMC;
+- forums;
+- file-sharing services;
+- private marketplaces;
+- server setup packages;
+- modpacks, unless separately authorized;
+- any other public or private distribution channel.
+
+7. Subscriptions and Authorized Access
+
+Access to the Software, source code, updates, premium builds, private builds,
+or development versions may require an active subscription, purchase, license
+key, or written authorization.
+
+If your subscription, license, or authorization ends, you must stop using any
+parts of the Software that were only made available under that subscription,
+license, or authorization unless written permission states otherwise.
+
+You may not bypass, remove, disable, tamper with, or avoid any license check,
+subscription check, authentication system, update restriction, or access control
+used by the Software.
+
+8. Modification Restrictions
+
+You may not modify, fork, decompile, reverse engineer, disassemble, or create
+derivative works from the Software without prior written authorization.
+
+Server owners may edit normal configuration files provided with the compiled
+Software for the purpose of running MysticVanish on their own server.
+
+Configuration editing does not grant permission to modify source code, bypass
+license checks, or create derivative software.
+
+9. Server Setup and Hosting Use
+
+A server owner may use MysticVanish on a server that earns money.
+
+A server setup creator, marketplace seller, hosting provider, freelancer, or
+commissioned developer may not include MysticVanish in a paid server setup,
+paid hosting package, paid configuration package, paid modpack, or paid service
+unless they have written authorization.
+
+10. API Use
+
+If MysticVanish provides a public API, other plugins or mods may interact with
+that API only through the documented public API methods.
+
+API access does not grant permission to copy, reproduce, port, reimplement,
+decompile, or reuse MysticVanish source code, internal logic, private classes,
+or protected systems.
+
+11. Attribution
+
+You may not remove, alter, obscure, or misrepresent copyright notices, license
+notices, author credits, branding, package names, or ownership statements
+included with the Software.
+
+You may not claim that you created MysticVanish or any unauthorized derivative
+work based on MysticVanish.
+
+12. No Warranty
+
+The Software is provided "as is" and "as available" without warranties of any
+kind, whether express or implied.
+
+To the maximum extent permitted by law, Alphine, Hyzion Studios, and Krystian
+Carter disclaim all warranties, including but not limited to implied warranties
+of merchantability, fitness for a particular purpose, non-infringement,
+availability, compatibility, and error-free operation.
+
+13. Limitation of Liability
+
+To the maximum extent permitted by law, Alphine, Hyzion Studios, and Krystian
+Carter shall not be liable for any direct, indirect, incidental, special,
+consequential, exemplary, or punitive damages arising from or related to the
+Software.
+
+This includes but is not limited to damages for server downtime, data loss,
+lost revenue, lost profits, security issues, player loss, business interruption,
+or compatibility issues.
+
+14. Termination
+
+Any violation of this license automatically terminates your rights to use the
+Software.
+
+Upon termination, you must immediately stop using the Software and delete all
+copies in your possession or control, including source code, compiled builds,
+modified versions, snippets, and derivative works.
+
+Termination does not limit the copyright holders' right to pursue enforcement,
+damages, injunctive relief, takedown requests, or other remedies.
+
+15. Written Authorization
+
+Any permission not expressly granted by this license requires prior written
+authorization from Alphine, Hyzion Studios, or Krystian Carter.
+
+Written authorization may be granted through a signed agreement, official license
+key, private contract, subscription terms, or another written method approved by
+the copyright holders.
+
+16. Reservation of Rights
+
+All rights not expressly granted in this license are reserved by Alphine,
+Hyzion Studios, and Krystian Carter.
+
+The absence of a restriction in this license does not imply permission.
+
+17. Contact
+
+For licensing, commercial use, redistribution, source access, subscription
+rights, competition use, or other permissions, contact the copyright holders
+through their official communication channels.
+
+End of License.
