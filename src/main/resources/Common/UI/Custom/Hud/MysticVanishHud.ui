@@ -1,0 +1,26 @@
+// MysticVanish vanished-state indicator.
+//
+// Shown to a player while they are vanished. The server (VanishHud) instantiates
+// this file via append("Hud/MysticVanishHud.ui") and sets "#Status.Text".
+//
+// Bottom placement note (same gotcha the vanilla/EndlessLeveling bottom HUDs hit):
+// a zero-height group with only a Bottom anchor is ignored by Hytale and floats to
+// the TOP. So the root is an explicit-Height region pinned a fixed distance above
+// the screen bottom, sitting just above the hotbar/mana bar. Tweak the Bottom
+// offset to taste.
+Group #VanishHudRoot {
+  Anchor: (Bottom: 230, Left: 0, Right: 0, Height: 40);
+  LayoutMode: CenterMiddle;
+
+  Group #VanishPanel {
+    Background: #000000(0.35);
+    Padding: (Horizontal: 18, Vertical: 6);
+    LayoutMode: CenterMiddle;
+
+    // The server overwrites this label's text each time vanish is toggled / re-levelled.
+    Label #Status {
+      Style: (FontSize: 18, TextColor: #ff5555, RenderBold: true, Alignment: Center, VerticalAlignment: Center);
+      Text: "VANISHED";
+    }
+  }
+}

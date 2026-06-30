@@ -1,0 +1,8 @@
+{
+  "Infinite": true,
+  "OverlapBehavior": "Overwrite",
+  "ApplicationEffects": {
+    "EntityBottomTint": "#FFC93C",
+    "EntityTopTint": "#FFC93C"
+  }
+}

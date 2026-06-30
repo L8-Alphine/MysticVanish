@@ -1,0 +1,19 @@
+{
+  "Group": "org.hyzionstudios",
+  "Name": "MysticVanish",
+  "Version": "1.0.0",
+  "Main": "org.hyzionstudios.mysticvanish.MysticVanishPlugin",
+  "ServerVersion": ">=0.5.6 <0.6.0",
+  "Description": "Layered stealth, silent moderation, and permission-based invisibility.",
+  "Authors": [
+    {
+      "Name": "Alphine"
+    }
+  ],
+  "Dependencies": {},
+  "OptionalDependencies": {
+    "HelpChat:PlaceholderAPI": ">=1.0.8",
+    "LuckPerms:LuckPerms": "*"
+  },
+  "IncludesAssetPack": true
+}
